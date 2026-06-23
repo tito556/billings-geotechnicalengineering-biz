@@ -1,0 +1,44 @@
+# Geotechnicalengineering — Billings
+
+> Geotechnical engineering services in Billings, United States.
+
+## Services
+- [Anchors](https://billings.geotechnicalengineering.biz/anchors/)
+- [Atterberg Limits](https://billings.geotechnicalengineering.biz/atterberg-limits/)
+- [Cbr Road](https://billings.geotechnicalengineering.biz/cbr-road/)
+- [Cpt Test](https://billings.geotechnicalengineering.biz/cpt-test/)
+- [Deep Excavations](https://billings.geotechnicalengineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://billings.geotechnicalengineering.biz/excavation-monitoring/)
+- [Excavations](https://billings.geotechnicalengineering.biz/excavations/)
+- [Flexible Pavement](https://billings.geotechnicalengineering.biz/flexible-pavement/)
+- [Foundations](https://billings.geotechnicalengineering.biz/foundations/)
+- [Geophysics](https://billings.geotechnicalengineering.biz/geophysics/)
+- [Grain Size](https://billings.geotechnicalengineering.biz/grain-size/)
+- [Ground Improvement](https://billings.geotechnicalengineering.biz/ground-improvement/)
+- [In Situ Permeability](https://billings.geotechnicalengineering.biz/in-situ-permeability/)
+- [Investigation](https://billings.geotechnicalengineering.biz/investigation/)
+- [Lab In Situ](https://billings.geotechnicalengineering.biz/lab-in-situ/)
+- [Laboratory](https://billings.geotechnicalengineering.biz/laboratory/)
+- [Liquefaction](https://billings.geotechnicalengineering.biz/liquefaction/)
+- [Mat Foundations](https://billings.geotechnicalengineering.biz/mat-foundations/)
+- [Piles](https://billings.geotechnicalengineering.biz/piles/)
+- [Resistivity](https://billings.geotechnicalengineering.biz/resistivity/)
+- [Retaining Walls](https://billings.geotechnicalengineering.biz/retaining-walls/)
+- [Rigid Pavement](https://billings.geotechnicalengineering.biz/rigid-pavement/)
+- [Road Geotechnics](https://billings.geotechnicalengineering.biz/road-geotechnics/)
+- [Seismic](https://billings.geotechnicalengineering.biz/seismic/)
+- [Seismic Isolation](https://billings.geotechnicalengineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://billings.geotechnicalengineering.biz/seismic-microzonation/)
+- [Slope Stability](https://billings.geotechnicalengineering.biz/slope-stability/)
+- [Slopes](https://billings.geotechnicalengineering.biz/slopes/)
+- [Spt Drilling](https://billings.geotechnicalengineering.biz/spt-drilling/)
+- [Stone Columns](https://billings.geotechnicalengineering.biz/stone-columns/)
+- [Test Pits](https://billings.geotechnicalengineering.biz/test-pits/)
+- [Vibrocompaction](https://billings.geotechnicalengineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://billings.geotechnicalengineering.biz/
+
+## About
+This site provides geotechnical engineering services in Billings, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
